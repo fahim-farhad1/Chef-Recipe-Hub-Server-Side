@@ -1,0 +1,440 @@
+[
+  {
+    "id": 1,
+    "photo_url": "https://shorturl.at/dsBM6",
+    "chef_name": "Sanjeev Kapoor",
+    "chef_bio": "Sanjeev Kapoor is a celebrity chef, entrepreneur, and television personality. He has hosted several cooking shows and has authored numerous cookbooks. He is the recipient of several awards, including the Padma Shri, for his contributions to Indian cuisine.",
+    "experience": "10 years",
+    "recipes": [
+      {
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 lb spaghetti",
+          "4 oz pancetta or bacon, chopped",
+          "4 garlic cloves, minced",
+          "4 eggs",
+          "1 cup grated Parmesan cheese",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": [
+          "Cook spaghetti in boiling salted water until al dente.",
+          "While the pasta is cooking, cook the pancetta or bacon in a large skillet until crispy.",
+          "Add minced garlic to the skillet and cook for 1-2 minutes.",
+          "In a bowl, beat together the eggs, Parmesan cheese, salt, and pepper.",
+          "Drain the spaghetti and add it to the skillet with the pancetta and garlic. Toss until well combined.",
+          "Remove the skillet from heat and quickly stir in the egg mixture until it coats the spaghetti and forms a creamy sauce.",
+          "Serve hot and sprinkle with additional Parmesan cheese if desired."
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 lb spaghetti",
+          "4 oz pancetta or bacon, chopped",
+          "4 garlic cloves, minced",
+          "4 eggs",
+          "1 cup grated Parmesan cheese",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": [
+          "Cook spaghetti in boiling salted water until al dente.",
+          "While the pasta is cooking, cook the pancetta or bacon in a large skillet until crispy.",
+          "Add minced garlic to the skillet and cook for 1-2 minutes.",
+          "In a bowl, beat together the eggs, Parmesan cheese, salt, and pepper.",
+          "Drain the spaghetti and add it to the skillet with the pancetta and garlic. Toss until well combined.",
+          "Remove the skillet from heat and quickly stir in the egg mixture until it coats the spaghetti and forms a creamy sauce.",
+          "Serve hot and sprinkle with additional Parmesan cheese if desired."
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 lb spaghetti",
+          "4 oz pancetta or bacon, chopped",
+          "4 garlic cloves, minced",
+          "4 eggs",
+          "1 cup grated Parmesan cheese",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": [
+          "Cook spaghetti in boiling salted water until al dente.",
+          "While the pasta is cooking, cook the pancetta or bacon in a large skillet until crispy.",
+          "Add minced garlic to the skillet and cook for 1-2 minutes.",
+          "In a bowl, beat together the eggs, Parmesan cheese, salt, and pepper.",
+          "Drain the spaghetti and add it to the skillet with the pancetta and garlic. Toss until well combined.",
+          "Remove the skillet from heat and quickly stir in the egg mixture until it coats the spaghetti and forms a creamy sauce.",
+          "Serve hot and sprinkle with additional Parmesan cheese if desired."
+        ],
+        "rating": 4.5
+      }
+    ],
+    "likes": 50
+  },
+  {
+    "id": 2,
+    "photo_url": "https://shorturl.at/hzLT7",
+    "chef_name": "Vikas Khanna",
+    "chef_bio": "Vikas Khanna is a Michelin-starred chef, restaurateur, author, and humanitarian. He has hosted several cooking shows, including MasterChef India, and has authored several cookbooks. He is also the founder of the Vikas Khanna Foundation, which supports various charitable causes.",
+    "experience": "5 years",
+    "recipes": [
+      {
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 lb spaghetti",
+          "4 oz pancetta or bacon, chopped",
+          "4 garlic cloves, minced",
+          "4 eggs",
+          "1 cup grated Parmesan cheese",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": [
+          "Cook spaghetti in boiling salted water until al dente.",
+          "While the pasta is cooking, cook the pancetta or bacon in a large skillet until crispy.",
+          "Add minced garlic to the skillet and cook for 1-2 minutes.",
+          "In a bowl, beat together the eggs, Parmesan cheese, salt, and pepper.",
+          "Drain the spaghetti and add it to the skillet with the pancetta and garlic. Toss until well combined.",
+          "Remove the skillet from heat and quickly stir in the egg mixture until it coats the spaghetti and forms a creamy sauce.",
+          "Serve hot and sprinkle with additional Parmesan cheese if desired."
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 lb spaghetti",
+          "4 oz pancetta or bacon, chopped",
+          "4 garlic cloves, minced",
+          "4 eggs",
+          "1 cup grated Parmesan cheese",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": [
+          "Cook spaghetti in boiling salted water until al dente.",
+          "While the pasta is cooking, cook the pancetta or bacon in a large skillet until crispy.",
+          "Add minced garlic to the skillet and cook for 1-2 minutes.",
+          "In a bowl, beat together the eggs, Parmesan cheese, salt, and pepper.",
+          "Drain the spaghetti and add it to the skillet with the pancetta and garlic. Toss until well combined.",
+          "Remove the skillet from heat and quickly stir in the egg mixture until it coats the spaghetti and forms a creamy sauce.",
+          "Serve hot and sprinkle with additional Parmesan cheese if desired."
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 lb spaghetti",
+          "4 oz pancetta or bacon, chopped",
+          "4 garlic cloves, minced",
+          "4 eggs",
+          "1 cup grated Parmesan cheese",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": [
+          "Cook spaghetti in boiling salted water until al dente.",
+          "While the pasta is cooking, cook the pancetta or bacon in a large skillet until crispy.",
+          "Add minced garlic to the skillet and cook for 1-2 minutes.",
+          "In a bowl, beat together the eggs, Parmesan cheese, salt, and pepper.",
+          "Drain the spaghetti and add it to the skillet with the pancetta and garlic. Toss until well combined.",
+          "Remove the skillet from heat and quickly stir in the egg mixture until it coats the spaghetti and forms a creamy sauce.",
+          "Serve hot and sprinkle with additional Parmesan cheese if desired."
+        ],
+        "rating": 4.5
+      }
+    ],
+    "likes": 30
+  },
+  {
+    "id": 3,
+    "photo_url": "https://shorturl.at/eoT34",
+    "chef_name": "Tarla Dalal",
+    "chef_bio": "Tarla Dalal was a renowned Indian cookbook author and television personality. She authored over 100 cookbooks and hosted several cooking shows. She was also a Padma Shri awardee for her contributions to Indian cuisine.",
+    "experience": "15 years",
+    "recipes": [
+      {
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 lb spaghetti",
+          "4 oz pancetta or bacon, chopped",
+          "4 garlic cloves, minced",
+          "4 eggs",
+          "1 cup grated Parmesan cheese",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": [
+          "Cook spaghetti in boiling salted water until al dente.",
+          "While the pasta is cooking, cook the pancetta or bacon in a large skillet until crispy.",
+          "Add minced garlic to the skillet and cook for 1-2 minutes.",
+          "In a bowl, beat together the eggs, Parmesan cheese, salt, and pepper.",
+          "Drain the spaghetti and add it to the skillet with the pancetta and garlic. Toss until well combined.",
+          "Remove the skillet from heat and quickly stir in the egg mixture until it coats the spaghetti and forms a creamy sauce.",
+          "Serve hot and sprinkle with additional Parmesan cheese if desired."
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 lb spaghetti",
+          "4 oz pancetta or bacon, chopped",
+          "4 garlic cloves, minced",
+          "4 eggs",
+          "1 cup grated Parmesan cheese",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": [
+          "Cook spaghetti in boiling salted water until al dente.",
+          "While the pasta is cooking, cook the pancetta or bacon in a large skillet until crispy.",
+          "Add minced garlic to the skillet and cook for 1-2 minutes.",
+          "In a bowl, beat together the eggs, Parmesan cheese, salt, and pepper.",
+          "Drain the spaghetti and add it to the skillet with the pancetta and garlic. Toss until well combined.",
+          "Remove the skillet from heat and quickly stir in the egg mixture until it coats the spaghetti and forms a creamy sauce.",
+          "Serve hot and sprinkle with additional Parmesan cheese if desired."
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 lb spaghetti",
+          "4 oz pancetta or bacon, chopped",
+          "4 garlic cloves, minced",
+          "4 eggs",
+          "1 cup grated Parmesan cheese",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": [
+          "Cook spaghetti in boiling salted water until al dente.",
+          "While the pasta is cooking, cook the pancetta or bacon in a large skillet until crispy.",
+          "Add minced garlic to the skillet and cook for 1-2 minutes.",
+          "In a bowl, beat together the eggs, Parmesan cheese, salt, and pepper.",
+          "Drain the spaghetti and add it to the skillet with the pancetta and garlic. Toss until well combined.",
+          "Remove the skillet from heat and quickly stir in the egg mixture until it coats the spaghetti and forms a creamy sauce.",
+          "Serve hot and sprinkle with additional Parmesan cheese if desired."
+        ],
+        "rating": 4.5
+      }
+    ],
+    "likes": 75
+  },
+  {
+    "id": 4,
+    "photo_url": "https://shorturl.at/gopq7",
+    "chef_name": "Ranveer Brar",
+    "chef_bio": "Ranveer Brar is a celebrity chef, restaurateur, and television personality. He has hosted several cooking shows and has authored several cookbooks. He is also the founder of the restaurant chain, The Kitchens of India.",
+    "experience": "8 years",
+    "recipes": [
+      {
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 lb spaghetti",
+          "4 oz pancetta or bacon, chopped",
+          "4 garlic cloves, minced",
+          "4 eggs",
+          "1 cup grated Parmesan cheese",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": [
+          "Cook spaghetti in boiling salted water until al dente.",
+          "While the pasta is cooking, cook the pancetta or bacon in a large skillet until crispy.",
+          "Add minced garlic to the skillet and cook for 1-2 minutes.",
+          "In a bowl, beat together the eggs, Parmesan cheese, salt, and pepper.",
+          "Drain the spaghetti and add it to the skillet with the pancetta and garlic. Toss until well combined.",
+          "Remove the skillet from heat and quickly stir in the egg mixture until it coats the spaghetti and forms a creamy sauce.",
+          "Serve hot and sprinkle with additional Parmesan cheese if desired."
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 lb spaghetti",
+          "4 oz pancetta or bacon, chopped",
+          "4 garlic cloves, minced",
+          "4 eggs",
+          "1 cup grated Parmesan cheese",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": [
+          "Cook spaghetti in boiling salted water until al dente.",
+          "While the pasta is cooking, cook the pancetta or bacon in a large skillet until crispy.",
+          "Add minced garlic to the skillet and cook for 1-2 minutes.",
+          "In a bowl, beat together the eggs, Parmesan cheese, salt, and pepper.",
+          "Drain the spaghetti and add it to the skillet with the pancetta and garlic. Toss until well combined.",
+          "Remove the skillet from heat and quickly stir in the egg mixture until it coats the spaghetti and forms a creamy sauce.",
+          "Serve hot and sprinkle with additional Parmesan cheese if desired."
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 lb spaghetti",
+          "4 oz pancetta or bacon, chopped",
+          "4 garlic cloves, minced",
+          "4 eggs",
+          "1 cup grated Parmesan cheese",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": [
+          "Cook spaghetti in boiling salted water until al dente.",
+          "While the pasta is cooking, cook the pancetta or bacon in a large skillet until crispy.",
+          "Add minced garlic to the skillet and cook for 1-2 minutes.",
+          "In a bowl, beat together the eggs, Parmesan cheese, salt, and pepper.",
+          "Drain the spaghetti and add it to the skillet with the pancetta and garlic. Toss until well combined.",
+          "Remove the skillet from heat and quickly stir in the egg mixture until it coats the spaghetti and forms a creamy sauce.",
+          "Serve hot and sprinkle with additional Parmesan cheese if desired."
+        ],
+        "rating": 4.5
+      }
+    ],
+    "likes": 25
+  },
+  {
+    "id": 5,
+    "photo_url": "https://shorturl.at/cjPT7",
+    "chef_name": "Kunal Kapur",
+    "chef_bio": "Kunal Kapur is a celebrity chef, restaurateur, and television personality. He has hosted several cooking shows, including MasterChef India, and has authored several cookbooks. He is also the founder of the restaurant chain, Diya.",
+    "experience": "20 years",
+    "recipes": [
+      {
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 lb spaghetti",
+          "4 oz pancetta or bacon, chopped",
+          "4 garlic cloves, minced",
+          "4 eggs",
+          "1 cup grated Parmesan cheese",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": [
+          "Cook spaghetti in boiling salted water until al dente.",
+          "While the pasta is cooking, cook the pancetta or bacon in a large skillet until crispy.",
+          "Add minced garlic to the skillet and cook for 1-2 minutes.",
+          "In a bowl, beat together the eggs, Parmesan cheese, salt, and pepper.",
+          "Drain the spaghetti and add it to the skillet with the pancetta and garlic. Toss until well combined.",
+          "Remove the skillet from heat and quickly stir in the egg mixture until it coats the spaghetti and forms a creamy sauce.",
+          "Serve hot and sprinkle with additional Parmesan cheese if desired."
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 lb spaghetti",
+          "4 oz pancetta or bacon, chopped",
+          "4 garlic cloves, minced",
+          "4 eggs",
+          "1 cup grated Parmesan cheese",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": [
+          "Cook spaghetti in boiling salted water until al dente.",
+          "While the pasta is cooking, cook the pancetta or bacon in a large skillet until crispy.",
+          "Add minced garlic to the skillet and cook for 1-2 minutes.",
+          "In a bowl, beat together the eggs, Parmesan cheese, salt, and pepper.",
+          "Drain the spaghetti and add it to the skillet with the pancetta and garlic. Toss until well combined.",
+          "Remove the skillet from heat and quickly stir in the egg mixture until it coats the spaghetti and forms a creamy sauce.",
+          "Serve hot and sprinkle with additional Parmesan cheese if desired."
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 lb spaghetti",
+          "4 oz pancetta or bacon, chopped",
+          "4 garlic cloves, minced",
+          "4 eggs",
+          "1 cup grated Parmesan cheese",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": [
+          "Cook spaghetti in boiling salted water until al dente.",
+          "While the pasta is cooking, cook the pancetta or bacon in a large skillet until crispy.",
+          "Add minced garlic to the skillet and cook for 1-2 minutes.",
+          "In a bowl, beat together the eggs, Parmesan cheese, salt, and pepper.",
+          "Drain the spaghetti and add it to the skillet with the pancetta and garlic. Toss until well combined.",
+          "Remove the skillet from heat and quickly stir in the egg mixture until it coats the spaghetti and forms a creamy sauce.",
+          "Serve hot and sprinkle with additional Parmesan cheese if desired."
+        ],
+        "rating": 4.5
+      }
+    ],
+    "likes": 90
+  },
+  {
+    "id": 6,
+    "photo_url": "https://urlis.net/3k983tuo",
+    "chef_name": "Saransh Goila",
+    "chef_bio": "Saransh Goila is a celebrity chef, author, and television personality. He has hosted several cooking shows, including Roti Rasta Aur India, and has authored the cookbook, India on My Platter. He is also the founder of Goila Butter Chicken, a popular restaurant chain.",
+    "experience": "4 years",
+    "recipes": [
+      {
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 lb spaghetti",
+          "4 oz pancetta or bacon, chopped",
+          "4 garlic cloves, minced",
+          "4 eggs",
+          "1 cup grated Parmesan cheese",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": [
+          "Cook spaghetti in boiling salted water until al dente.",
+          "While the pasta is cooking, cook the pancetta or bacon in a large skillet until crispy.",
+          "Add minced garlic to the skillet and cook for 1-2 minutes.",
+          "In a bowl, beat together the eggs, Parmesan cheese, salt, and pepper.",
+          "Drain the spaghetti and add it to the skillet with the pancetta and garlic. Toss until well combined.",
+          "Remove the skillet from heat and quickly stir in the egg mixture until it coats the spaghetti and forms a creamy sauce.",
+          "Serve hot and sprinkle with additional Parmesan cheese if desired."
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 lb spaghetti",
+          "4 oz pancetta or bacon, chopped",
+          "4 garlic cloves, minced",
+          "4 eggs",
+          "1 cup grated Parmesan cheese",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": [
+          "Cook spaghetti in boiling salted water until al dente.",
+          "While the pasta is cooking, cook the pancetta or bacon in a large skillet until crispy.",
+          "Add minced garlic to the skillet and cook for 1-2 minutes.",
+          "In a bowl, beat together the eggs, Parmesan cheese, salt, and pepper.",
+          "Drain the spaghetti and add it to the skillet with the pancetta and garlic. Toss until well combined.",
+          "Remove the skillet from heat and quickly stir in the egg mixture until it coats the spaghetti and forms a creamy sauce.",
+          "Serve hot and sprinkle with additional Parmesan cheese if desired."
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 lb spaghetti",
+          "4 oz pancetta or bacon, chopped",
+          "4 garlic cloves, minced",
+          "4 eggs",
+          "1 cup grated Parmesan cheese",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": [
+          "Cook spaghetti in boiling salted water until al dente.",
+          "While the pasta is cooking, cook the pancetta or bacon in a large skillet until crispy.",
+          "Add minced garlic to the skillet and cook for 1-2 minutes.",
+          "In a bowl, beat together the eggs, Parmesan cheese, salt, and pepper.",
+          "Drain the spaghetti and add it to the skillet with the pancetta and garlic. Toss until well combined.",
+          "Remove the skillet from heat and quickly stir in the egg mixture until it coats the spaghetti and forms a creamy sauce.",
+          "Serve hot and sprinkle with additional Parmesan cheese if desired."
+        ],
+        "rating": 4.5
+      }
+    ],
+    "likes": 65
+  }
+]
